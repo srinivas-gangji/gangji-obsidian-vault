@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Folder/Srinivas Note.md",
+                "file": "New Folder/8 Things You Must Forgo to Become Truly Rich.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,20 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "1e77d0b0c7397967",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "324285a24763e781",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Folder/Srinivas Note.md",
+                "file": "New Folder/8 Things You Must Forgo to Become Truly Rich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Folder/Srinivas Note.md",
+                "file": "New Folder/8 Things You Must Forgo to Become Truly Rich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Folder/Srinivas Note.md"
+                "file": "New Folder/8 Things You Must Forgo to Become Truly Rich.md"
               }
             }
           }
@@ -175,8 +161,9 @@
   },
   "active": "609c3f3ba383bc80",
   "lastOpenFiles": [
-    "Test Note.md",
     "New Folder/Srinivas Note.md",
+    "New Folder/8 Things You Must Forgo to Become Truly Rich.md",
+    "Test Note.md",
     "New Folder",
     "Welcome.md"
   ]
