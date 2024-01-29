@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "609c3f3ba383bc80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Folder/Srinivas Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1e77d0b0c7397967",
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "New Folder/Srinivas Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "New Folder/Srinivas Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "New Folder/Srinivas Note.md"
               }
             }
           }
@@ -160,8 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e6ad8c063d18d3a",
+  "active": "609c3f3ba383bc80",
   "lastOpenFiles": [
+    "Test Note.md",
+    "New Folder/Srinivas Note.md",
+    "New Folder",
     "Welcome.md"
   ]
 }
